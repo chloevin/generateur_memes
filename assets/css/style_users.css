@@ -1,0 +1,30 @@
+.btn_valide{
+  position: relative;
+   left: 30px;
+}
+.row1{
+  border: 2px solide orange;
+}
+#body_cration{
+  background-color: #aaaaa74d;
+}
+#memecanvas{
+  position: relative;
+  border: 2px solid orange;
+  border-radius: 25px;
+  width: 624px;
+  height: 473px;
+  background-color: #b4b2b033;
+}
+.gr_txt1{
+  position: relative;
+  float: right;
+  bottom: 464px;
+  right: 190px
+}
+.gr_txt2{
+  position: relative;
+  float: right;
+  bottom: 311px;
+  right: 190px
+}
